@@ -1,0 +1,14 @@
+# Pastas de ambiente virtual
+venv/
+env/
+
+# Arquivos de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações específicas do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
